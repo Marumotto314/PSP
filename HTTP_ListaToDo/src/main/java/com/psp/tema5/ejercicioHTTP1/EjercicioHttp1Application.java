@@ -1,0 +1,13 @@
+package com.psp.tema5.ejercicioHTTP1;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EjercicioHttp1Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(EjercicioHttp1Application.class, args);
+	}
+
+}
